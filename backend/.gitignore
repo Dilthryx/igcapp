@@ -1,0 +1,26 @@
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Variables de entorno
+.env
+.env.local
+.env.production
+
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
